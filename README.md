@@ -21,16 +21,23 @@
 
 # Writing a widget in code:
 ![Imgur](https://github.com/GayashanDeshapriya/Flutter-Notes/blob/main/Writing%20a%20widget%20in%20code1.png)
+
+- When creating widgets, there is only one requirement enforced by the widget superclass. It must have a build method.
 ![Imgur](https://github.com/GayashanDeshapriya/Flutter-Notes/blob/main/Writing%20a%20widget%20in%20code.png)
 
 - You can add methods and properties to the widget classes.
 ![Imgur](https://github.com/GayashanDeshapriya/Flutter-Notes/blob/main/Writing%20a%20widget%20in%20code%203.png)
 
-
-
 # Stateless Widget:
+- A StatelessWidget is a widget that you (as the developer) are okay with being destroyed. In other words, no information is kept within it that, if lost, will matter.
+
 
 
 
 # Stateful Widget:
+- Importantly:
+--The StatefulWidget class must implement the createState method.
+--The State object must implement the build method.
+--The StatefulWidget is immutable.
+--The State object is mutable.
 
