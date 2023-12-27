@@ -24,7 +24,7 @@
 ![Imgur](https://github.com/GayashanDeshapriya/Flutter-Notes/blob/main/Writing%20a%20widget%20in%20code.png)
 
 - You can add methods and properties to the widget classes.
-![Imgur]([https://github.com/GayashanDeshapriya/Flutter-Notes/blob/main/Writing%20a%20widget%20in%20code.png](https://github.com/GayashanDeshapriya/Flutter-Notes/blob/main/Writing%20a%20widget%20in%20code%203.png)https://github.com/GayashanDeshapriya/Flutter-Notes/blob/main/Writing%20a%20widget%20in%20code%203.png)
+![Imgur](https://github.com/GayashanDeshapriya/Flutter-Notes/blob/main/Writing%20a%20widget%20in%20code%203.png)
 
 
 
