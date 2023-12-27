@@ -36,8 +36,8 @@
 
 # Stateful Widget:
 - Importantly:
->The StatefulWidget class must implement the createState method.
->The State object must implement the build method.
->The StatefulWidget is immutable.
->The State object is mutable.
+- The StatefulWidget class must implement the createState method.
+- The State object must implement the build method.
+- The StatefulWidget is immutable.
+- The State object is mutable.
 
