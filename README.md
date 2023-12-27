@@ -19,3 +19,12 @@
 - Styling: This deals with the app's theme, responsiveness, and sizing.
 - Text: This displays text.
 
+# Writing a widget in code:
+![Imgur](https://github.com/GayashanDeshapriya/UFS_Official_Website/blob/master/src/assets/HOME.png)
+
+# Stateless Widget:
+
+
+
+# Stateful Widget:
+
