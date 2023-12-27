@@ -4,9 +4,11 @@
  > Each element on a screen of the Flutter app is a widget. 
 (The view of the screen completely depends upon the choice and sequence of the widgets used to build the apps. The structure of the code of an app is a tree of widgets.)
 
-
+# Flutter-Notes
 #Accessibility: These are the set of widgets that make a Flutter app more easily accessible.
+
 #Animation and Motion: These widgets add animation to other widgets.
+
 #Assets, Images, and Icons: These widgets take charge of assets such as display images and show icons.
 Async: These provide async functionality in the Flutter application.
 Basics: These are the bundle of widgets that are necessary for the development of any flutter application.
