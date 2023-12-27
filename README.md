@@ -20,7 +20,9 @@
 - Text: This displays text.
 
 # Writing a widget in code:
-![Imgur](https://github.com/GayashanDeshapriya/UFS_Official_Website/blob/master/src/assets/HOME.png)
+![Imgur](https://github.com/GayashanDeshapriya/Flutter-Notes/blob/main/Writing%20a%20widget%20in%20code1.png)
+![Imgur](https://github.com/GayashanDeshapriya/Flutter-Notes/blob/main/Writing%20a%20widget%20in%20code.png)
+
 
 # Stateless Widget:
 
