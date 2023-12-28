@@ -20,6 +20,10 @@
 - Text: This displays text.
 
 # Writing a widget in code:
+* npm
+  ```sh
+  hello world
+  ```
 ![Imgur](https://github.com/GayashanDeshapriya/Flutter-Notes/blob/main/Writing%20a%20widget%20in%20code1.png)
 
 - When creating widgets, there is only one requirement enforced by the widget superclass. It must have a build method.
